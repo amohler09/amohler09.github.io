@@ -1747,7 +1747,7 @@ input, select, textarea {
 		position: relative;
 		display: inline-block;
 		border: 0;
-		background: #35b88f;
+		background: rgba(44, 118, 153, 0.952);
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		cursor: pointer;
@@ -2112,7 +2112,7 @@ input, select, textarea {
 		color: rgb(255, 255, 255);
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #35b88f url("../../Images/amethyst.jpg") bottom center no-repeat;
+		background: rgba(44, 118, 153, 0.952) url("../../Images/amethyst.jpg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
@@ -2177,7 +2177,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: #35b88f;
+				color: rgba(44, 118, 153, 0.952);
 				text-shadow: 0 0 0.5px rgba(69, 200, 159, 0.25);
 				border-bottom-color: rgba(53, 184, 143, 0.5);
 			}
