@@ -2062,7 +2062,12 @@ input, select, textarea {
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
+		}
+
+		#header footer a{
 			color: white;
+			size: 1.5rem;
+			
 		}
 
 			#header footer:after {
