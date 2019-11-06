@@ -2017,8 +2017,7 @@ input, select, textarea {
 
 			#header header h1 {
 				font-weight: 600;
-				font-size: 1.5em;
-				color: white;
+				font-size: 2em;
 				letter-spacing: 10px;
 			}
 
@@ -2063,6 +2062,7 @@ input, select, textarea {
 			bottom: 9em;
 			margin: 0;
 			width: 100%;
+			color: white;
 		}
 
 			#header footer:after {
