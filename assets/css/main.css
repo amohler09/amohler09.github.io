@@ -2377,7 +2377,7 @@ input, select, textarea {
 				background-color: #203936;
 				background-image: url("../../Images/bluecrystalbkgd.jpg"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
-				background-size: auto, 100% auto;
+				background-size: 50%;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 				font-size: 14pt;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 			body{
 				background-image: url("../../Images/bluecrystalbkgd.jpg"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
-				background-size: auto, 100% auto;
+				background-size: 50%;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 			}
