@@ -2375,9 +2375,9 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("../../Images/neonbckg.jpg"), url("../../images/bg-alt.jpg");
+				background-image: url("../../Images/neonbckg.jpg");
 				background-repeat: repeat, no-repeat;
-				background-size: 50%;
+				background-size: 100%;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 				font-size: 14pt;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 			body{
 				background-image: url("../../Images/neonbckg.jpg"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
-				background-size: 50%;
+				background-size: 100%;
 				background-position: top left, top center;
 				background-attachment: scroll, scroll;
 			}
