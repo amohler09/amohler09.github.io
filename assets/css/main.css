@@ -2066,7 +2066,7 @@ input, select, textarea {
 
 		#header footer a{
 			color: white;
-			font-size: 1rem;
+			font-size: 1.25rem;
 
 		}
 
@@ -2375,7 +2375,7 @@ input, select, textarea {
 
 			body {
 				background-color: #203936;
-				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
+				background-image: url("../../Images/bluecrystalbkgd.jpg"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
@@ -2460,6 +2460,14 @@ input, select, textarea {
 				text-shadow: none !important;
 			}
 
+			body{
+				background-image: url("../../Images/bluecrystalbkgd.jpg"), url("../../images/bg-alt.jpg");
+				background-repeat: repeat, no-repeat;
+				background-size: auto, 100% auto;
+				background-position: top left, top center;
+				background-attachment: scroll, scroll;
+			}
+			
 			body, input, textarea, select {
 				line-height: 1.5em;
 				font-size: 12pt;
